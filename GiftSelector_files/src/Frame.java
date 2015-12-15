@@ -1,8 +1,8 @@
 //============================================
-// Author:		Kevin Cabrera
+// Author:	Kevin Cabrera
 // Filename:	Frame.java
 // Description:	Starts the execution of the
-//				program. 
+//		program. 
 //============================================
 import javax.swing.JFrame;
 

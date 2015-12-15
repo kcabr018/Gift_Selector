@@ -1,9 +1,9 @@
 //===============================================
-// Author:		Kevin Cabrera
+// Author:	Kevin Cabrera
 // Filename:	Panel.java
 // Description:	Sets the layout of the GUI and 
-//				declares the functionality of
-//				the program
+//		declares the functionality of
+//		the program
 //===============================================
 import java.awt.BorderLayout;
 import java.awt.Color;
